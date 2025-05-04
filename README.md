@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 
-![https://github.com/adndrsd1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![https://instagram.com/adindarizki15](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![www.linkedin.com/in/adinda-rizki-sya-bana-diva](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://github.com/adndrsd1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![https://instagram.com/adindarizki15](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://linkedin.com/in/adinda-rizki-sya-bana-diva](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <picture>
